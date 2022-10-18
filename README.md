@@ -51,4 +51,3 @@ the data types, fill null values, label categorical values, and remove outliers 
 Following data preprocessing, the dataset was split for the modeling process using
 the Sci-Kit Learn Library. The dataset was divided into eighty percent (80%) training sets
 and twenty percent (20%) validation sets.
-unnecessary variables to ensure the performance of the model. 
